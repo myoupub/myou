@@ -165,7 +165,9 @@ mechanism we provide in the future).
   partial refunds of payments made for use of the service.  Choosing,
   from time to time, to return money to customers is not a waiver, and
   is understood not to establish a precedent or obligation.
-* Disclaimer:<br>
+* Disclaimer:
+
+
     YOUR USE OF OUR SERVICE IS AT YOUR OWN RISK. THE SERVICE, INCLUDING
     ALL INFORMATION, AND FUNCTIONS MADE AVAILABLE ON OR ACCESSIBLE THROUGH
     THE SERVICE, IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT
