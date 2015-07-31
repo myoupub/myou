@@ -90,3 +90,7 @@ joke.  Claimed intent doesn't matter.  If a post is sufficiently
 problematic or misunderstand-able or context-free that several people
 report it, then the problem is with the post.
 
+-----------------------------------------
+
+Earlier versions of these Terms are
+[available on GitHub](https://github.com/myoupub/myou/blob/master/prose/m/coc.md).

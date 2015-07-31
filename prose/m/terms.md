@@ -4,7 +4,28 @@ Effective:  June 25, 2015
 
 This is a little less formally worded than other Terms of Service you
 might have seen, but we're hoping that means it will be clearer, more
-helpful, and more often read.
+helpful, and easier for you to read.
+
+## The High Points
+
+* Privacy:  Yes, we log your interactions with our site, including
+  through the use of cookies and third-party services.  This
+  information will never be sold to or shared with other entities.
+* Copyright:  Your submissions are yours, and you retain all rights
+  in them.  By submitting, you grant us a license to show them to
+  others, and promise that you have the right to give us this license.
+* Security:
+    * We do not store user's financial or other personally
+      identifiable information
+      ([PII](https://en.wikipedia.org/wiki/Personally_identifiable_information))
+      within *myou*.  We pass information to a
+      [PCI](https://www.pcisecuritystandards.org/)-compliant payment
+      processing service immediately upon receipt, minimizing the risk to
+      your data should a security breach occur.
+    * We protect our servers and data with industry-standard practices
+      and technologies.  Offsite data backups we maintain are
+      encrypted prior to transfer from our servers.
+
 
 ## Scope
 
@@ -54,10 +75,10 @@ commercial websites.  In particular:
 * We publish information summarized or otherwise derived from our
   logs, but no information from individual log entries or concerning a
   single visitor session on the site.
-* We do not engage with or sell information to any third party
-  service, in particular not with any businesses concerned with
-  marketing for third parties, or with advertising delivery,
-  targeting, or tracking.
+* We do not share information with or sell information to any third
+  party.  Included in "third parties" are, of course, any business
+  concerned with marketing for third parties, or with advertising
+  delivery, targeting, or tracking.
 
 The primary purpose of our service is communication, and most of the
 ways for you to submit information are intended to publish the
@@ -223,4 +244,9 @@ mechanism we provide in the future).
   addressed by the Computer Fraud and Abuse Act.  (Authorization is
   granted to automated systems that operate in compliance with our
   `robots.txt` files and are used by free and publicly-accessible
-  Internet search services.
+  Internet search services.)
+
+-----------------------------------------
+
+Earlier versions of these Terms are
+[available on GitHub](https://github.com/myoupub/myou/blob/master/prose/m/terms.md).
