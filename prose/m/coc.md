@@ -1,3 +1,6 @@
+*Please note: the content here is provisional.  That isn't to say we
+might back off from the intended spirit of any of it, but it's been
+only lightly reviewed and has lots of room for improvement.*
 
 We intend *[myou](https://myou.pub/)* to be a community where people
 need not be fearful about their interactions.  We'll discuss
@@ -92,5 +95,5 @@ report it, then the problem is with the post.
 
 -----------------------------------------
 
-Earlier versions of these Terms are
+Earlier versions of this code is
 [available on GitHub](https://github.com/myoupub/myou/blob/master/prose/m/coc.md).
