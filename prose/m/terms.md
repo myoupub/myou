@@ -11,11 +11,15 @@ helpful, and easier for you to read.
 * Privacy:  Yes, we log your interactions with our site, including
   through the use of cookies and third-party services.  This
   information will never be sold to or shared with other entities.
+* Email Address:  When you give us your email address, we will use it
+  only to contact you.  We do not disclose it to other users, will
+  never share it with or sell it to other organizations, and won't ask
+  for access to your contact list.
 * Copyright:  Your submissions are yours, and you retain all rights
   in them.  By submitting, you grant us a license to show them to
   others, and promise that you have the right to give us this license.
 * Security:
-    * We do not store user's financial or other personally
+    * We do not store your financial or other personally
       identifiable information
       ([PII](https://en.wikipedia.org/wiki/Personally_identifiable_information))
       within *myou*.  We pass information to a
