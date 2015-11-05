@@ -76,5 +76,5 @@ to deactivate an account.
 
 -----------------------------------------
 
-Earlier versions of this code is
+Earlier versions of this code are
 [available on GitHub](https://github.com/myoupub/myou/blob/master/prose/m/coc.md).
